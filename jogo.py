@@ -15,7 +15,7 @@ pygame.init()
 pygame.mixer.init()
 
 musica = recurso_caminho("Lady Gaga - Paparazzi (Audio).mp3")
-pygame.mixer.music.load(musica)
+pygame.mixer.music.load(Lady Gaga - Paparazzi (Audio).mp3)
 pygame.mixer.music.play(-1)
 
 largura, altura = 1024, 768
