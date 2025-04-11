@@ -5,7 +5,7 @@ a = Analysis(
     ['jogo.py'],
     pathex=[],
     binaries=[],
-    datas=[('Lady Gaga - Paparazzi (Audio).mp3', '.')],
+    datas=[('monkey.png', '.'), ('maca.png', '.'), ('inimigo.png', '.'), ('Paparazzi.mp3', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,4 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['macaco2.ico'],
 )
