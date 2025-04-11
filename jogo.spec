@@ -5,7 +5,7 @@ a = Analysis(
     ['jogo.py'],
     pathex=[],
     binaries=[],
-    datas=[('monkey.png', '.'), ('maca.png', '.'), ('inimigo.png', '.'), ('Paparazzi.mp3', '.')],
+    datas=[('monkey.png', '.'), ('maca.png', '.'), ('inimigo.png', '.'), ('Paparazzi.mp3', '.'), ('fundo1.png', '.'), ('fundo2.png', '.'), ('fundo3.png', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
