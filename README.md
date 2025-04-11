@@ -2,4 +2,4 @@
 
 Jogo 2D criado com Python, somente para estudar e brincar um pouco
 
-https://upload.wikimedia.org/wikipedia/pt/d/d4/Donkey_Kong_character.png
+![image](https://github.com/user-attachments/assets/8830a2ce-52cc-49fa-aa91-0846d4e226d9)
